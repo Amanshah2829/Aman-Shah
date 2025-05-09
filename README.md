@@ -37,13 +37,6 @@
 
 ---
 
-### 📊 **Cyber Stats Dashboard**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<YOUR_USERNAME>&show_icons=true&theme=midnight-purple&border_radius=15&bg_color=0D1117)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<YOUR_USERNAME>&layout=compact&theme=midnight-purple&border_radius=15&bg_color=0D1117)
-
----
-
 ### 📡 **Engage With Me**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)

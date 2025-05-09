@@ -1,8 +1,6 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/f4JSIhoNccMy4P23Z0/giphy.gif" width="400" height="180"/>
-</p>
 
-<h1 align="center">🌌 <Your Name> | Futuristic Developer Portal 🚀</h1>
+
+<h1 align="center">🌌 <Your Name> | Aman Shah 🚀</h1>
 
 <h3 align="center">Transforming Visions into Advanced Digital Realities ✨</h3>
 
@@ -54,7 +52,6 @@
 
 ---
 
-<p align="center">
   <img src="https://media.giphy.com/media/U2pmTWUi0MXjyrMaVj/giphy.gif" width="500"/>
 </p>
 
